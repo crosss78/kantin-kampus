@@ -1,5 +1,6 @@
 # Kantin Kampus (React + TypeScript + Vite)
 
+| | |
 | --- | --- |
 | Nama | Muhamad Sabilil Haq |
 | NRP | 5027251041 |
